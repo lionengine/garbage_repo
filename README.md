@@ -22,3 +22,11 @@
     - Другий коміт має хеш: f611d39400580d9ba31ef17ab4422c5c3716eba9
     - Всі внесені зміни перевірено: local && remote => true
 
+4. Branching:
+    - Для створення гілки:
+      - `git branch pray_for_changes`
+      - де `pray_for_changes` - назва гілки
+    - Для створення гілки у віддаленому репозиторії:
+      - `git push origin pray_for_changes`
+    - Для того щоб змінити (переключитись на) гілку:
+      -`git checkout pray_for_changes`
