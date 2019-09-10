@@ -29,4 +29,4 @@
     - Для створення гілки у віддаленому репозиторії:
       - `git push origin pray_for_changes`
     - Для того щоб змінити (переключитись на) гілку:
-      -`git checkout pray_for_changes`
+      - `git checkout pray_for_changes`
