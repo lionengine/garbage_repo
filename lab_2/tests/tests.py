@@ -25,10 +25,10 @@ class TestClass(unittest.TestCase):
             main(self.ip_url)
 
     def test_home_work_am(self):
-            self.assertTrue(home_work(self.date_am))
+        self.assertTrue(home_work(self.date_am) == 'am')
 
     def test_home_work_pm(self):
-        self.assertTrue(home_work(self.date_pm))
+        self.assertTrue(home_work(self.date_pm) == 'pm')
     
     def test_home_work_nopoint(self):
         self.assertFalse(home_work(self.date_nopoint))
