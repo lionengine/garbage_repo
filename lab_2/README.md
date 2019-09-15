@@ -60,13 +60,13 @@
 
     - ![datetime greetings app code](./imgs/8_datetime_code.png)
 
-    - ![datetime greetings app demo](./imgs/8_1_datetime_demo.png) 
+    - ![datetime greetings app demo](./imgs/8_1_datetime_demo.png) ![datetime greetings app demo 2](./imgs/8_1_datetime_demo2.png)
 
     
 
 9. :exclamation: (Захист) Написати тест що буде перевіряти правильність виконання Вашої функції;
 
-    - ![datetime greetings app test code](./imgs/9_app_datetime_test_code.png) 
+    - ![datetime greetings app test code](./imgs/9_app_datetime_test_code.png)  
 
     
 
@@ -99,5 +99,6 @@ make
 - Результат виконання команди `make` має бути створене ізольоване середовище (venv), виконані тести, запущена програма та закомічений файл у git; 
 
 15. Після успішного виконання роботи відредагуйте Ваш персональний _README.md_ у цьому репозиторію. Створіть таблицю яка ставить у відповідність номер лабораторної роботи та URL посилання на папку з виконаною роботою у Вашому першосональному репозиторію. Створіть пул-реквест до основного репозиторію.
+
 
 
