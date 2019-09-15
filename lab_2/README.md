@@ -10,7 +10,7 @@
 
   - Done: 
 
-  - ![Terminal Screenshot](./1_installing_utilities.png)
+  - ![Terminal Screenshot](./imgs/1_installing_utilities.png)
 
 
 
@@ -22,25 +22,25 @@
 
 2. ( :heavy_check_mark: ) За допомогою пакетного менеджера *PIP* інсталюйте `pipenv` та створіть ізольоване середовище для Python. Ознайомтесь з командаю `pipenv -h`.
 
-    - ![pipenv installation](./2_installing_pipenv.png)
+    - ![pipenv installation](./imgs/2_installing_pipenv.png)
 
     
 
 3. ( :heavy_check_mark: ) Встановіть бібліотеку `requests` у Вашому середовищі. Дана бібліотека дозволить створювати HTTP запити до заданих Web сторінок.
 
-    - ![installing pipenv requests library](./3_pipenv_requests.png) 
+    - ![installing pipenv requests library](./imgs/3_pipenv_requests.png) 
 
     
 
 4. ( :heavy_check_mark: ) Створіть файл `app.py`. Це буде програма яку потрібно протестити та запустити. Скопіюйте код програми із даного репозиторію до себе. Для кращого розуміння програми ознайомтесь з [Python tutorial](https://www.tutorialspoint.com/python/index.htm)
 
-    - ![creating app.py](./4_app_py.png) 
+    - ![creating app.py](./imgs/4_app_py.png) 
 
     
 
 5. ( :heavy_check_mark: ) Переконайтесь що програма працює правильно.
 
-    - ![app demo.py](./5_app_demo.png) 
+    - ![app demo.py](./imgs/5_app_demo.png) 
 
     
 
@@ -52,21 +52,21 @@
 
 7. ( :heavy_check_mark: ) Приклади тестів знаходяться в окремій папці `tests`. Запустіть тести та переконайтесь що вони виконались успішно:
 
-    - ![pytest tests.py](./7_pytests_tests.png) 
+    - ![pytest tests.py](./imgs/7_pytests_tests.png) 
 
 
 
 8. :exclamation: (Захист) ( :heavy_check_mark: ) У програмі дописати функцію яка буде перевіряти час доби AM/PM та відповідно друкувати: Доброго дня/ночі;
 
-    - ![datetime greetings app code](./8_datetime_code.png)
+    - ![datetime greetings app code](./imgs/8_datetime_code.png)
 
-    - ![datetime greetings app demo](./8_1_datetime_demo.png) 
+    - ![datetime greetings app demo](./imgs/8_1_datetime_demo.png) 
 
     
 
 9. :exclamation: (Захист) Написати тест що буде перевіряти правильність виконання Вашої функції;
 
-    - ![datetime greetings app test code](./9_app_datetime_test_code.png) 
+    - ![datetime greetings app test code](./imgs/9_app_datetime_test_code.png) 
 
     
 
