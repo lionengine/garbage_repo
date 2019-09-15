@@ -7,7 +7,7 @@ install:
 	sudo pip install pipenv
 	pipenv --python 3.7
 	pipenv install requests
-	pipenv install pytests
+	pipenv install pytest
 test:
 	@echo "Start tests."
 	pytest tests/tests.py > results.txt
