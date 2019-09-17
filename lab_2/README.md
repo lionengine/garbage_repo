@@ -90,6 +90,8 @@
 - директива deploy - повинна автоматично робити git commit/push файла `results.txt`;
 
 13. ( :heavy_check_mark: ) Закомітьте зміни в `Makefile` до репозиторію та перейдіть на віртуальну машину Ubuntu;
+    - Makefile:
+    - ![Makefile Contents](./imgs/13_makefile_contents.png)
 
 14. ( :heavy_check_mark: ) Склонуйте git репозиторій на віртуальну машину Ubuntu. Перейдіть у папку лабораторної роботи та запустіть make:
 
