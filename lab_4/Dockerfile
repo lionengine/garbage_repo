@@ -36,7 +36,7 @@ RUN git clone https://github.com/nukedope/garbage_repo.git
 
 WORKDIR /app
 
-RUN cp -r /lab/devops_course/lab_3/* .
+RUN cp -r /garbage_repo/lab_3/* .
 
 
 
