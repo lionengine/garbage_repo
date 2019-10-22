@@ -8,8 +8,8 @@ install:
 	@echo -e "*****************************************\n"
 	@pip install pipenv
 	@pipenv --python 3.7
-	@pipenv install requests
-	@pipenv install pytest
+	@pip install requests
+	@pip install pytest
 
 test:
 	@echo -e "\n\n"
