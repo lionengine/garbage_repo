@@ -30,15 +30,12 @@ def home_work(t):
         print("*" * 26)
         print("*\t Доброго дня!\t *")
         print("*" * 26)
-        return 'am'
     elif "PM" in t:
         print("*" * 35)
         print("*\t Доброго вечора/ночі\t *")
         print("*" * 35)
-        return 'pm'
     else:
         print("Нимагу візначіть время суток")
-        return 0
 
 if __name__ == "__main__":
     a = "="*40
